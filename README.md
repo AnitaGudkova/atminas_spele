@@ -1,2 +1,4 @@
-# atminas_spele
-Anita šeit bija!
+# Oktobra mācību piemēri
+
+- kā lietot GitHub
+ - kā lietot GitHub Desktop
